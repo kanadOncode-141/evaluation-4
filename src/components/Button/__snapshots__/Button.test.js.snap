@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Components matches snapshot 1`] = `
+<button
+  className="sc-bczRLJ kfNcSk"
+  data-testid="button"
+  disabled={false}
+  onClick={[Function]}
+  size="sm"
+/>
+`;
